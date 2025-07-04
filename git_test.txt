@@ -1,3 +1,5 @@
+석정현이 수정함
+--------
 git config --global user.email "당신의이메일@example.com"
 git config --global user.name "당신의이름"
 (맨처음에 한번만하면됨)
@@ -11,4 +13,4 @@ git checkout -b 브런치이름
 
 git add .
 git commit -m "커밋이름(임의)"
-git push -u origin 위에서설정한브런치이름
+git push -u origin 위에서설정한브런치이
