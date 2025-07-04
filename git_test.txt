@@ -1,4 +1,4 @@
-석 수정
+석 수정2222222222
 
 git config --global user.email "당신의이메일@example.com"
 git config --global user.name "당신의이름"
@@ -15,4 +15,4 @@ git add .
 git commit -m "커밋이름(임의)"
 git push -u origin 위에서설정한브런치이름
 
-석 수정
+석 수정222222222
