@@ -12,4 +12,4 @@ git checkout -b 브런치이름
 git add .
 git commit -m "커밋이름(임의)"
 git push -u origin 위에서설정한브런치이름
-한지훈
+한지훈dadsasdadadaadad
