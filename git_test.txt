@@ -8,7 +8,10 @@ cd 깃허브에있는 폴더주소
 git checkout -b 브런치이름
 
 수정작업~~~
-
+나는 바보다ㅏㅏㅏㅏㅏ
 git add .
 git commit -m "커밋이름(임의)"
-git push -u origin 위에서설정한브런치이름
+git push -u o
+아 모르겟다rigin 위에서설정한브런치이름
+중복작업 수정 엄청하기
+asdklasdlkasd
